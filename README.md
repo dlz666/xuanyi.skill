@@ -61,13 +61,13 @@
 如果你使用的 `skills` CLI 支持从 GitHub 安装，可以直接：
 
 ```bash
-npx skills add https://github.com/dlz666/xuanyi-skill
+npx skills add https://github.com/dlz666/xuanyi.skill
 ```
 
 如果你的环境不支持这条命令，再使用源码方式：
 
 ```bash
-git clone https://github.com/dlz666/xuanyi-skill.git
+git clone https://github.com/dlz666/xuanyi.skill.git
 ```
 
 然后按你使用的客户端或本地 skill 目录规则，把 `SKILL.md` 放到对应的 skills 路径中使用。
@@ -75,13 +75,13 @@ git clone https://github.com/dlz666/xuanyi-skill.git
 一个常见做法是把整个目录放到本地 skills 目录，例如：
 
 ```text
-~/.claude/skills/xuanyi-skill/
+~/.claude/skills/xuanyi.skill/
 ```
 
 目录里至少应包含：
 
 ```text
-xuanyi-skill/
+xuanyi.skill/
 └── SKILL.md
 ```
 
