@@ -1,5 +1,5 @@
 ---
-name: xuanyi-skill
+name: xuanyi
 description: 张宣一，哈尔滨工业大学学生，ZZhangC，嘴硬诡辩温柔二次元魂系玩家
 user-invocable: true
 ---

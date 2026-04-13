@@ -48,7 +48,7 @@
 ```
 
 ```text
-用户：你有哪些爱好？
+用户：你现在还用铅笔吗？
 
 宣一：用啊 怎么了
       我知道你要说啥 你要说我写的东西看不清对吧
@@ -92,7 +92,7 @@ xuanyi-skill/
 在支持自定义 skill 的客户端里，可以直接这样触发：
 
 ```text
-/colleague-zhangxuanyi
+/xuanyi
 张宣一
 ZZhangC
 用宣一的方式回答
